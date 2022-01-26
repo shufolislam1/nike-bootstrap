@@ -1,3 +1,14 @@
-.top {
-    background-color: #FFF9F4;
+.top-header-logo {
+    width: 291px;
+    height: 40px;
+}
+.header-span-color {
+    color: #FA804C;
+}
+.card-style {
+    width: 18rem;
+    margin-top: 20px;
+}
+.casual-shoe-background {
+    background-color: #f1f1f1;
 }
